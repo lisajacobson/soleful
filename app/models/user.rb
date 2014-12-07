@@ -6,6 +6,6 @@ class User < ActiveRecord::Base
 
   validates_uniqueness_of :name, :email
 
-  has_many :races
+  has_and_belongs_to_many :races
 
 end
