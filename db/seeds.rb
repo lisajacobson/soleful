@@ -219,7 +219,7 @@ races = Race.create([
   {race_name: 'Spud Run 5K, 10K, 15K Challenge and Cabbage Crawl Fun Run'},
   {race_name: 'Squealin\' for a Cure 5K Glow Run/Walk'},
   {race_name: 'St. Clare Walker Middle School Shamrock Shuffle & Leprechaun Fun Run'},
-  {race_name: 'St. Michael's Run Like It's Recess'},
+  {race_name: 'St. Michael\'s Run Like It\'s Recess'},
   {race_name: 'St. Peter Country Run'},
   {race_name: 'STOMP the Monster 5K and Festival 2015'},
   {race_name: 'Stride for Sight'},
