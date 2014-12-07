@@ -3,7 +3,7 @@ class CreateRaces < ActiveRecord::Migration
     create_table :races do |t|
       t.string :race_name
       t.string :location
-      t.numeric :distance
+      t.decimal :distance
       t.date :date
       t.time :time
       t.string :event_type
